@@ -1,0 +1,13 @@
+.App{
+    background-color: #F7F2DB;
+}
+
+.background-image {
+    width: 100%;
+    heigh: auto;
+}
+
+.main-content {
+    position: relative;
+    text-align: center;
+}

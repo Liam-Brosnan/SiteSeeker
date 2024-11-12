@@ -1,0 +1,30 @@
+.App-hero {
+  text-align: center;
+  padding: 50px 20px;
+  background-color: #BABFB0;
+}
+
+.App-hero h1 {
+  color: #030F03;
+  font-size: 30px;
+}
+
+.App-hero p {
+  color: #34492C;
+  font-size: 20px;
+}
+
+.button-primary {
+  background-color: #34492C;
+  color: #BABFB0;
+  padding: 10px 20px;
+  text-decoration: none;
+  font-size: 16px;
+  border-radius: 5px;
+  border: none;
+  cursor: pointer;
+}
+
+.button-primary:hover {
+  background-color: #627F74;
+}

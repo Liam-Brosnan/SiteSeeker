@@ -1,0 +1,44 @@
+.page-title {
+    text-align: center;
+}
+
+.campsite-list {
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 10px;
+    padding: 50px; list-style-type: none; }
+
+.campsite-item{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 50px;
+    margin-bottom: 50px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: white;
+    box-sizing: border-box;
+    height: 220px;
+    width: 500px;
+}
+.campsite-title{
+    text-align: center;
+}
+
+.book-button{
+    align-self: center; 
+    width: 100px;
+    padding: 10px 30px;
+    background-color: #34492C;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.campsite-item strong,
+.campsite-item span {
+    margin-bottom: 0px;
+}
+

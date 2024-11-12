@@ -1,0 +1,17 @@
+.App-content {
+  text-align: center;
+  padding: 50px 20px;
+  background-color: #BABFB0;
+}
+
+.App-content h2 {
+  color: #030F03;
+  font-size: 24px;
+}
+
+.App-content p {
+  color: #34492C;
+  font-size: 16px;
+  max-width: 600px;
+  margin: 0 auto;
+}

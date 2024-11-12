@@ -1,0 +1,28 @@
+.booking-form {
+  position: absolute;
+  top: 20%;
+  left: 50%;
+  transform: translate(-50%, -20%);
+  background: white;
+  padding: 1rem;
+  border-radius: 5px;
+}
+
+.booking-form h2 {
+  font-size: 1rem;
+  margin-bottom: 1rem;
+}
+
+.booking-form form {
+  display: flex;
+  flex-direction: column;
+}
+
+.booking-form div {
+  margin-bottom: 1rem;
+}
+
+.booking-form button {
+    padding: 1rem;
+}
+
